@@ -34,3 +34,4 @@ https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?t=ZwkaQ4636UBn5pNd-
 Realizado por:
 - Chiara Boccaletti
 - Patricia Sanz Escurin
+- Andrés Martín Manos

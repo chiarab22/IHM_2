@@ -20,8 +20,13 @@ https://www.figma.com/
 ### Link a la mapa de navegación
 https://www.figma.com/file/1Q8pqzdLc3T4RBP4F7lnao/mapa-nav?t=ZwkaQ4636UBn5pNd-0
 
+![image](https://user-images.githubusercontent.com/98825807/219465918-9b0f954e-9793-45b0-9310-95eaaa7c0be1.png)
+
+
 ### Link a la mapa de arquitectura
 https://www.figma.com/file/GVYAvsaaP2TZtcnbJdvhqQ/mapa-arq?t=ZwkaQ4636UBn5pNd-0
+
+![image](https://user-images.githubusercontent.com/98825807/219465879-3675e414-547f-45ac-9b42-fea28174c84c.png)
 
 ### Link al flujograma
 https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?t=ZwkaQ4636UBn5pNd-0

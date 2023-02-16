@@ -29,7 +29,7 @@ https://www.figma.com/file/GVYAvsaaP2TZtcnbJdvhqQ/mapa-arq?t=ZwkaQ4636UBn5pNd-0
 ![image](https://user-images.githubusercontent.com/98825807/219465879-3675e414-547f-45ac-9b42-fea28174c84c.png)
 
 ### Link al flujograma
-https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?t=ZwkaQ4636UBn5pNd-0
+https://www.figma.com/file/j0F2asrWCEY4EDM9fLTn6Z/Untitled?node-id=0%3A1&t=9cpwbXVA4PD5jNgl-0
 
 Realizado por:
 - Chiara Boccaletti

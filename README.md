@@ -30,6 +30,8 @@ https://www.figma.com/file/GVYAvsaaP2TZtcnbJdvhqQ/mapa-arq?t=ZwkaQ4636UBn5pNd-0
 
 ### Link al flujograma
 https://www.figma.com/file/j0F2asrWCEY4EDM9fLTn6Z/Untitled?node-id=0%3A1&t=9cpwbXVA4PD5jNgl-0
+![lol](https://user-images.githubusercontent.com/98779707/219483844-fefb8f49-5052-41dd-a5b7-4d03d06faa94.jpg)
+
 
 Realizado por:
 - Chiara Boccaletti

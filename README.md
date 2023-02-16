@@ -17,6 +17,9 @@ Puedes seguir la estructura que proponemos en este enunciado o crear una propia.
  Software Utilizado:
 https://www.figma.com/
 
+### Link a la mapa de navegación
+https://www.figma.com/file/1Q8pqzdLc3T4RBP4F7lnao/mapa-nav?t=ZwkaQ4636UBn5pNd-0
+
 Realizado por: 
 - Chiara Boccaletti
 - Patricia Sanz Escurin

@@ -20,6 +20,12 @@ https://www.figma.com/
 ### Link a la mapa de navegación
 https://www.figma.com/file/1Q8pqzdLc3T4RBP4F7lnao/mapa-nav?t=ZwkaQ4636UBn5pNd-0
 
-Realizado por: 
+### Link a la mapa de arquitectura
+https://www.figma.com/file/GVYAvsaaP2TZtcnbJdvhqQ/mapa-arq?t=ZwkaQ4636UBn5pNd-0
+
+### Link al flujograma
+https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?t=ZwkaQ4636UBn5pNd-0
+
+Realizado por:
 - Chiara Boccaletti
 - Patricia Sanz Escurin

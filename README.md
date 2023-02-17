@@ -31,8 +31,8 @@ https://www.figma.com/file/GVYAvsaaP2TZtcnbJdvhqQ/mapa-arq?t=ZwkaQ4636UBn5pNd-0
 ![image](https://user-images.githubusercontent.com/98825807/219465879-3675e414-547f-45ac-9b42-fea28174c84c.png)
 
 ### Link al flujograma
-https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?node-id=0%3A1&t=DcymOyuzjzTfUqQQ-0
-![lol](https://user-images.githubusercontent.com/98779707/219484611-fab53aa3-eeeb-43ef-a716-d9da5edab967.jpg)
+https://www.figma.com/file/6vYsjt4UWY9W5B0j4dOcMz/flujograma?node-id=0%3A1&t=8p5PeiIZ8squnSt1-0
+<img width="712" alt="lol" src="https://user-images.githubusercontent.com/98779707/219617309-dcbace40-d10f-4626-a8d9-c6241d02a88e.png">
 
 
 

@@ -1,5 +1,7 @@
 # Fase 2. Organización- Programar la navegación
 
+Link al repositorio: https://github.com/chiarab22/IHM_P2.git
+
 Etapa cuando el diseñador UX usa tanto criterios científico-técnicos como culturales para organizar toda la información obtenida durante la etapa anterior. Las actividades que se realizan en esta etapa son:
 
 ·        Representar todas las estructuras posibles de los contenidos, en correspondencia a las necesidades de usuarios, propósitos del negocio y contexto de uso.
